@@ -7,11 +7,13 @@ This repository contains my solutions to problems solved on leetcode using diffe
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Renu567560/Leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Renu567560/Leetcode-solutions/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Renu567560/Leetcode-solutions/tree/master/0075-sort-colors) |
 ## Two Pointers
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Renu567560/Leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Renu567560/Leetcode-solutions/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Renu567560/Leetcode-solutions/tree/master/0075-sort-colors) |
 ## Greedy
 |  |
@@ -20,5 +22,6 @@ This repository contains my solutions to problems solved on leetcode using diffe
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Renu567560/Leetcode-solutions/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Renu567560/Leetcode-solutions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
