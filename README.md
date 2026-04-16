@@ -13,6 +13,7 @@ This repository contains my solutions to problems solved on leetcode using diffe
 | [0075-sort-colors](https://github.com/Renu567560/Leetcode-solutions/tree/master/0075-sort-colors) |
 | [0238-product-of-array-except-self](https://github.com/Renu567560/Leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Renu567560/Leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0287-find-the-duplicate-number](https://github.com/Renu567560/Leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Renu567560/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 ## Two Pointers
 |  |
@@ -21,6 +22,7 @@ This repository contains my solutions to problems solved on leetcode using diffe
 | [0015-3sum](https://github.com/Renu567560/Leetcode-solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Renu567560/Leetcode-solutions/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/Renu567560/Leetcode-solutions/tree/master/0075-sort-colors) |
+| [0287-find-the-duplicate-number](https://github.com/Renu567560/Leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 ## Greedy
 |  |
 | ------- |
@@ -36,6 +38,7 @@ This repository contains my solutions to problems solved on leetcode using diffe
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Renu567560/Leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Renu567560/Leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0287-find-the-duplicate-number](https://github.com/Renu567560/Leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 ## Matrix
 |  |
 | ------- |
@@ -54,4 +57,8 @@ This repository contains my solutions to problems solved on leetcode using diffe
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Renu567560/Leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/Renu567560/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Renu567560/Leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
