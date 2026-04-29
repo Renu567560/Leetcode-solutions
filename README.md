@@ -27,6 +27,7 @@ This repository contains my solutions to problems solved on leetcode using diffe
 | [0018-4sum](https://github.com/Renu567560/Leetcode-solutions/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/Renu567560/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Renu567560/Leetcode-solutions/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/Renu567560/Leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0287-find-the-duplicate-number](https://github.com/Renu567560/Leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 ## Greedy
 |  |
@@ -101,4 +102,8 @@ This repository contains my solutions to problems solved on leetcode using diffe
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Renu567560/Leetcode-solutions/tree/master/0239-sliding-window-maximum) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/Renu567560/Leetcode-solutions/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
