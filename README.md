@@ -28,6 +28,7 @@ This repository contains my solutions to problems solved on leetcode using diffe
 | [0042-trapping-rain-water](https://github.com/Renu567560/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Renu567560/Leetcode-solutions/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Renu567560/Leetcode-solutions/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/Renu567560/Leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0287-find-the-duplicate-number](https://github.com/Renu567560/Leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 ## Greedy
 |  |
@@ -108,5 +109,6 @@ This repository contains my solutions to problems solved on leetcode using diffe
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Renu567560/Leetcode-solutions/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/Renu567560/Leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Renu567560/Leetcode-solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 <!---LeetCode Topics End-->
