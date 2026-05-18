@@ -30,6 +30,7 @@ This repository contains my solutions to problems solved on leetcode using diffe
 | [0125-valid-palindrome](https://github.com/Renu567560/Leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Renu567560/Leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0287-find-the-duplicate-number](https://github.com/Renu567560/Leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+| [0567-permutation-in-string](https://github.com/Renu567560/Leetcode-solutions/tree/master/0567-permutation-in-string) |
 ## Greedy
 |  |
 | ------- |
@@ -60,6 +61,7 @@ This repository contains my solutions to problems solved on leetcode using diffe
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Renu567560/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/Renu567560/Leetcode-solutions/tree/master/0567-permutation-in-string) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -97,6 +99,7 @@ This repository contains my solutions to problems solved on leetcode using diffe
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Renu567560/Leetcode-solutions/tree/master/0239-sliding-window-maximum) |
+| [0567-permutation-in-string](https://github.com/Renu567560/Leetcode-solutions/tree/master/0567-permutation-in-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -110,5 +113,6 @@ This repository contains my solutions to problems solved on leetcode using diffe
 | ------- |
 | [0125-valid-palindrome](https://github.com/Renu567560/Leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Renu567560/Leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0567-permutation-in-string](https://github.com/Renu567560/Leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Renu567560/Leetcode-solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 <!---LeetCode Topics End-->
