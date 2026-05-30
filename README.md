@@ -9,6 +9,7 @@ This repository contains my solutions to problems solved on leetcode using diffe
 | [0011-container-with-most-water](https://github.com/Renu567560/Leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Renu567560/Leetcode-solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Renu567560/Leetcode-solutions/tree/master/0018-4sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Renu567560/Leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Renu567560/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0054-spiral-matrix](https://github.com/Renu567560/Leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Renu567560/Leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
@@ -46,6 +47,7 @@ This repository contains my solutions to problems solved on leetcode using diffe
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Renu567560/Leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/Renu567560/Leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Renu567560/Leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Renu567560/Leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
