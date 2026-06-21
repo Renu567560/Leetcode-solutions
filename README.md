@@ -10,6 +10,7 @@ This repository contains my solutions to problems solved on leetcode using diffe
 | [0015-3sum](https://github.com/Renu567560/Leetcode-solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Renu567560/Leetcode-solutions/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Renu567560/Leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0039-combination-sum](https://github.com/Renu567560/Leetcode-solutions/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/Renu567560/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0054-spiral-matrix](https://github.com/Renu567560/Leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Renu567560/Leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
@@ -123,4 +124,8 @@ This repository contains my solutions to problems solved on leetcode using diffe
 | [0443-string-compression](https://github.com/Renu567560/Leetcode-solutions/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Renu567560/Leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Renu567560/Leetcode-solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/Renu567560/Leetcode-solutions/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
